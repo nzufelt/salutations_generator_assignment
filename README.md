@@ -42,4 +42,6 @@ Once students are done with the assignment, I typically have them submit their c
 
 ### Files and Resources
 
-* The [Swift]() and [Java]() versions of the starter code.
+* The [Swift](/swift) and [Java](/java) versions of the starter code.
+* [Code refactoring](https://en.wikipedia.org/wiki/Code_refactoring) on Wikipedia
+* ["What is refactoring and what is only modifying code?"](https://stackoverflow.com/questions/1025844/what-is-refactoring-and-what-is-only-modifying-code) on Stack Overflow
