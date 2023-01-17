@@ -1,4 +1,4 @@
-class Husband {
+class husband {
   constructor(name) {
     this.name = name;
   }
@@ -14,4 +14,4 @@ class Husband {
   }
 }
 
-module.exports = Husband
+module.exports = husband
