@@ -30,7 +30,7 @@ My assessment for this assignment is usually broken into the following rubric ca
 
 ### Plan
 
-We begin this class by being given the code (see the [swift](/swift) and [java](/java) versions) and the following prompt.
+We begin this class by being given the code ([swift](/swift), [java](/java), [javascript](/javascript), and [python](/python) versions available) and the following prompt.
 
 > Suppose that you received the below code from a teammate on a project.  There are a few problems with it.  First of all, it certainly could be more inclusive.  It also doesn’t really need to be two different classes.  These are not necessarily the only issues; however, there are no bugs in the code.  It’s not “wrong”, it’s “bad”.  Write and test a class which would better solve the same problem of encoding data about people potentially getting married and their desired salutation(s).  This means you have some choices!
 
@@ -42,6 +42,6 @@ Once students are done with the assignment, I typically have them submit their c
 
 ### Files and Resources
 
-* The [Swift](/swift) and [Java](/java) versions of the starter code.
+* [Swift](/swift), [Java](/java), [Javascript](/javascript), and [Python](/python) versions of the starter code.
 * [Code refactoring](https://en.wikipedia.org/wiki/Code_refactoring) on Wikipedia
 * ["What is refactoring and what is only modifying code?"](https://stackoverflow.com/questions/1025844/what-is-refactoring-and-what-is-only-modifying-code) on Stack Overflow
