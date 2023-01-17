@@ -1,5 +1,5 @@
-const husband = require('./husband')
-const wife = require('./wife')
+const Husband = require('./Husband')
+const Wife = require('./Wife')
 
 john = new Husband("John Smith");
 jane = new Wife("Jane Doe");
